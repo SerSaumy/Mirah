@@ -1,4 +1,4 @@
-## Change the branch to Windows
+## > Active development is currently happening on the `windows` branch.
 
 <div align="center">
 
